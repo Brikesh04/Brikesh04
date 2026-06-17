@@ -10,28 +10,11 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Studying at the University of Passau, Germany
 - 🇮🇳 Originally from India, currently living in Germany
-- 🏏 Active cricket player competing in Germany
-- 🚀 Founder of TuS Cricket Pfarrkirchen
 - 📱 Building mobile apps using React Native & Expo
 - 🌐 Developing modern web applications
 - 🤖 Passionate about AI, automation, and software engineering
 - 📈 Always learning new technologies and improving my skills
-
----
-
-## 🏏 Cricket Journey
-
-Cricket has been a major part of my life both in India and Germany.
-
-### Highlights
-
-- Founder of **TuS Cricket Pfarrkirchen**
-- Active player in German cricket competitions
-- Contributing to the growth of cricket in Bavaria
-- Organizing cricket events and community activities
-- Promoting cricket among students and local communities
 
 ---
 
@@ -71,7 +54,6 @@ Cricket has been a major part of my life both in India and Germany.
 - 🤖 AI-powered Applications
 - 🌐 Full Stack Web Development
 - ☁️ Cloud & Deployment
-- 🏏 Expanding Cricket in Germany
 
 ---
 
@@ -120,7 +102,6 @@ Developing responsive and user-friendly web platforms with modern technologies.
 
 - 🚀 Publish successful mobile applications
 - 💼 Grow as a full-stack developer
-- 🏏 Expand TuS Cricket Pfarrkirchen
 - 🤖 Build AI-powered products
 - 🌍 Create technology that impacts communities
 
@@ -128,15 +109,15 @@ Developing responsive and user-friendly web platforms with modern technologies.
 
 ## 🤝 Let's Connect
 
-- 💼 LinkedIn: Add your LinkedIn profile
+- 💼 LinkedIn: https://www.linkedin.com/in/brikesh-vikin-gowrish/
 - 🌐 Portfolio: Add your website
-- 📧 Email: Add your email
+- 📧 Email: brikeshvikin13@gmail.com
 
 ---
 
 <div align="center">
 
-### "Building technology, growing cricket, and creating impact."
+
 
 ⭐ Feel free to explore my repositories and connect with me!
 
